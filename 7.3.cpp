@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-int	num ()
+int num ()
 {
 	int n1;
 	printf ("n1=");
